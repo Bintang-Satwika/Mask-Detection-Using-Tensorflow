@@ -7,3 +7,5 @@ I was responsible for created model for mask detection using library Tensorflow-
 ![alt text](https://github.com/Bintang-Satwika/Mask-Detection-Using-Tensorflow/blob/b234a6ef559c6ff3fa367f41093945c12d916f12/images/loss.png?raw=true)
 # Testing model to new images
 ![alt text](https://github.com/Bintang-Satwika/Mask-Detection-Using-Tensorflow/blob/b234a6ef559c6ff3fa367f41093945c12d916f12/images/validation.png?raw=true)
+# Certificate
+![alt text](https://github.com/Bintang-Satwika/Mask-Detection-Using-Tensorflow/blob/1eb6dbff2d49110cd2a9169ab79eeceae5036a22/images/certificate_Satwika_CNN.jpg?raw=true)
